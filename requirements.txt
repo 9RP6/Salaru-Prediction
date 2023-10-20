@@ -4,4 +4,4 @@ pandas
 streamlit
 protobuf
 click
-scikitlearn
+scikit-learn
