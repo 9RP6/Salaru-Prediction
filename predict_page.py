@@ -15,7 +15,7 @@ le_country = data["le_country"]
 le_edu = data["le_edu"]
 
 def show_prediction():
-    st.title("SWE Salary Prediction")
+    st.title("Salary Prediction")
 
     st.write("""### We need some information to predict the salary""")
 
