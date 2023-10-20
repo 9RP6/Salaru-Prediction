@@ -1,7 +1,0 @@
-matplotlib
-numpy
-pandas
-streamlit
-protobuf
-click
-scikitlearn
